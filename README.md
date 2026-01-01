@@ -1,29 +1,44 @@
 
 <h1 align="center">Hi 👋, I'm Saptorsi Ghose Dastidar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h3 align="center">A passionate fullstack developer from India</h3>
+<p align="center">
+  Always curious about gaining new experiences✨
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptorsi2005&label=Profile%20views&color=0e75b6&style=flat" alt="saptorsi2005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saptorsi_2005" target="blank"><img src="https://img.shields.io/twitter/follow/saptorsi_2005?logo=twitter&style=for-the-badge" alt="saptorsi_2005" /></a> </p>
 
-- 📫 How to reach me **saptorsighosedastidarvis@gmail.com**
+### 📫 How to reach me
+- Email: **saptorsighosedastidarvis@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+### 🌐 Connect with me
+- <a href="https://twitter.com/saptorsi_2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/saptorsi2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.instagram.com/saptorsi_2005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saptorsi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saptorsi_2005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saptorsi ghose dastidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saptorsi ghose dastidar" height="30" width="40" /></a>
-<a href="https://instagram.com/the_undefined_soul_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_undefined_soul_2005" height="30" width="40" /></a>
+### 🛠️ Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,react,nodejs,express,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📌 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptorsi2005&show_icons=true&locale=en&layout=compact" alt="saptorsi2005" /></p>
+#### 🛒 Green Cart — Online Grocery Web App
+A responsive e-commerce frontend where users can browse products, add items to cart, and view totals.  
+Built with **React, Node and Express js** with focus on clean layout and usability.  
+🔗 Repo: https://github.com/saptorsi2005/green-cart
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptorsi2005&show_icons=true&locale=en" alt="saptorsi2005" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptorsi2005&" alt="saptorsi2005" /></p>
+#### 🏥 Health Care Management Interface
+A frontend project exploring healthcare UI concepts such as appointment sections, info dashboards, and responsive layouts.  
+Built with **React and Firebase**, emphasizing **user-friendly design & accessibility**.  
+🔗 Repo: https://github.com/saptorsi2005/health-care
+
+---
+
+### ⚡ Fun Fact
+Reach me out to know 😂
 
