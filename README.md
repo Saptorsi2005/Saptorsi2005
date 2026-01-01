@@ -15,8 +15,8 @@
 
 ### 🌐 Connect with me
 - <a href="https://twitter.com/saptorsi_2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://www.linkedin.com/in/saptorsi2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- <a href="https://www.instagram.com/saptorsi_2005/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/saptorsi-ghose-dastidar-a3907829b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.instagram.com/the_undefined_soul_2005?igsh=MWo2andwYjJpc3B6Nw%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 🛠️ Languages & Tools
 <p>
