@@ -28,14 +28,14 @@
 #### 🛒 Green Cart — Online Grocery Web App
 A responsive e-commerce frontend where users can browse products, add items to cart, and view totals.  
 Built with **React, Node and Express js** with focus on clean layout and usability.  
-🔗 Repo: https://github.com/saptorsi2005/green-cart
+🔗 Repo: https://github.com/Saptorsi2005/greencart
 
 ---
 
 #### 🏥 Health Care Management Interface
 A frontend project exploring healthcare UI concepts such as appointment sections, info dashboards, and responsive layouts.  
 Built with **React and Firebase**, emphasizing **user-friendly design & accessibility**.  
-🔗 Repo: https://github.com/saptorsi2005/health-care
+🔗 Repo: https://github.com/Saptorsi2005/CureCom
 
 ---
 
